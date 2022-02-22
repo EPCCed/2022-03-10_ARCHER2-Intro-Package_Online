@@ -6,12 +6,12 @@ address:
 country: "UK"
 language: "English"
 latlng: 
-humandate: 
-humantime: 
-startdate: 
-enddate: 
-instructor: ["Jane Doe"]
-helper: ["John Doe","John Smith"]
+humandate: 10 March 2022 
+humantime: 10:00-16:00
+startdate: 2022-03-10 10:00
+enddate: 2022-03-10 16:00
+instructor: ["Andy Turner"]
+helper: ["","John Smith"]
 email: ["support@archer2.ac.uk"]
 collaborative_notes: 
 root: .
